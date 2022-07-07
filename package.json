@@ -1,0 +1,16 @@
+{
+  "name": "react-datetime-picker-component",
+  "version": "0.1.1",
+  "description": "Custom React component for Date time Picker",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raghav Bhardwaj",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.3",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0"
+  }
+}
