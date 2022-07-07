@@ -36,6 +36,10 @@ function MyApp() {
 ```
 
 ### Example
+#### DateTime: Date
+![DateTime: Date](https://github.com/Bhardwaj-Raghav/react-datetime-picker-component/blob/main/examples/date.PNG?raw=true)
+#### DateTime: Time
+![DateTime: Time](https://github.com/Bhardwaj-Raghav/react-datetime-picker-component/blob/main/examples/time.PNG?raw=true)
 
 ## License
 

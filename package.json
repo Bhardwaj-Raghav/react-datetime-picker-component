@@ -1,6 +1,6 @@
 {
   "name": "react-datetime-picker-component",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Custom React component for Date time Picker",
   "main": "index.jsx",
   "repository": "https://github.com/Bhardwaj-Raghav/react-datetime-picker-component",
